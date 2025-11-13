@@ -1,0 +1,9 @@
+
+body { font-family: Arial, sans-serif; background:#fff8f0; color:#333; margin:0; }
+header { background:#ffd54f; padding:15px; text-align:center; }
+nav a { margin:0 8px; text-decoration:none; color:#333; font-weight:bold; }
+.hero { text-align:center; padding:40px; background:#fff3e0; }
+.grid, .product-grid { display:flex; flex-wrap:wrap; justify-content:center; gap:20px; padding:20px; }
+.card, .product { background:#fff; border-radius:10px; padding:15px; box-shadow:0 0 5px rgba(0,0,0,0.1); width:150px; text-align:center; }
+footer { background:#ffd54f; text-align:center; padding:10px; margin-top:20px; }
+button { background:#ff9800; color:#fff; border:none; border-radius:5px; padding:8px 15px; cursor:pointer; }
